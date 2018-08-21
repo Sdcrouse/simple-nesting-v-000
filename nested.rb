@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-  binding.pry
+  #binding.pry
   programmer_hash[:grace_hopper]
 end
 
@@ -37,6 +37,8 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
+     
+  binding.pry
 end
 
 def dennis_ritchies_language
