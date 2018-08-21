@@ -92,6 +92,7 @@ def adding_matz
   }
   #binding.pry
   
+  programmer_hash
 end
 
 def changing_alan
